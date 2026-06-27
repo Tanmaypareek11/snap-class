@@ -1,0 +1,11 @@
+.env
+.vscode
+
+*.pyc
+.DS_Store_pycache_/
+
+venv/
+.stramlit/
+
+
+dist/
