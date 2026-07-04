@@ -16,3 +16,6 @@ segno # for the creating the QRCODE from URL
 pillow # help in preprocessing in imgs
 
 streamlit
+
+librosa # edit,load,modify voices 
+resemblyzer # make embeddings
