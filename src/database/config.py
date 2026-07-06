@@ -8,9 +8,3 @@ supabase: Client = create_client(
     st.secrets["SUPABASE_KEY"]
 )
 
-[theme]
-base = "light"
-primaryColor = "#4CAF50"
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F0F2F6"
-textColor = "#262730"
